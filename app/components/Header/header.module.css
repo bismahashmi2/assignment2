@@ -1,8 +1,8 @@
 header.head{
     color:white;
-    background-color: brown;
-    list-style: none;
+    background-color: rgb(215, 101, 101);
     text-align: center;
-    padding: 3px;
+    padding: 0.5px;
+    font-size: larger;
 
 }  
